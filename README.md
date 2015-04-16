@@ -1,9 +1,10 @@
 FoldaRap
 ========
 
-![FoldaRap][ESC01]
+![FoldaRap][IMG01]
 
-FreeCAD port of [FoldaRap][PRO01], *The Folding RepRap !*
+FreeCAD port of [FoldaRap][URL01], *The Folding RepRap !* designed by [Emmanuel Guilloz][URL02].
 
-[ESC01]: https://raw.githubusercontent.com/xoan/FoldaRap/master/FoldaRap.png
-[PRO01]: http://reprap.org/wiki/FoldaRap
+[IMG01]: https://raw.githubusercontent.com/xoan/FoldaRap/master/FoldaRap.png
+[URL01]: http://reprap.org/wiki/FoldaRap
+[URL02]: https://github.com/EmmanuelG
